@@ -2,8 +2,6 @@
   "version": 2,
   "framework": "nextjs",
   "functions": {
-    "pages/api/analyze.ts": {
-      "maxDuration": 60
-    }
+    "pages/api/analyze.ts": { "maxDuration": 60 }
   }
 }
